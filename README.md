@@ -42,6 +42,7 @@ HALF WAVE:
 WAFEFORM:
 <img width="780" height="405" alt="Screenshot 2025-12-15 151706" src="https://github.com/user-attachments/assets/19cad1e3-d036-4c9a-8cda-036ee6e12875" />
 
+
 TABULAR COLUMN:
 
 | *Input Voltage* |              | *Output Voltage* |              |              |
@@ -52,12 +53,20 @@ TABULAR COLUMN:
 |                  |              |                    |              | 5 V / 25 ms  |
 
 FULL WAVE :
+
 <img width="689" height="537" alt="Screenshot 2025-12-15 151447" src="https://github.com/user-attachments/assets/0837f9c0-9e32-4959-a181-7343cf32c712" />
 
 WAVEFORM:
+
 <img width="782" height="411" alt="Screenshot 2025-12-15 151649" src="https://github.com/user-attachments/assets/d83b3e21-58c8-4081-b6be-d482ae73b136" />
 
 TABULAR FORM:
+
+| Section | Condition | Vm (V) | t (ms) |
+|--------|----------|--------|--------|
+| Input Voltage | — | 50 | 20 |
+| Output Voltage | Without Filter | 50 | 5 |
+| Output Voltage | With Filter | 50.46 | 5 / 14 |
 
 
 
