@@ -37,13 +37,16 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 HALF WAVE:
+
 <img width="678" height="483" alt="Screenshot 2025-12-15 151428" src="https://github.com/user-attachments/assets/4fa8aebd-47f6-4524-bd6b-efc51f15cd55" />
 
 WAFEFORM:
+
 <img width="780" height="405" alt="Screenshot 2025-12-15 151706" src="https://github.com/user-attachments/assets/19cad1e3-d036-4c9a-8cda-036ee6e12875" />
 
 
 TABULAR COLUMN:
+
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
