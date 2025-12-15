@@ -36,16 +36,30 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+HALF WAVE:
+<img width="678" height="483" alt="Screenshot 2025-12-15 151428" src="https://github.com/user-attachments/assets/4fa8aebd-47f6-4524-bd6b-efc51f15cd55" />
 
-Bridge rectifier with filter:
+WAFEFORM:
+<img width="780" height="405" alt="Screenshot 2025-12-15 151706" src="https://github.com/user-attachments/assets/19cad1e3-d036-4c9a-8cda-036ee6e12875" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+TABULAR COLUMN:
+
+| *Input Voltage* |              | *Output Voltage* |              |              |
+|------------------|--------------|--------------------|--------------|--------------|
+| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
+|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
+| 100              | 20           | 100                | 10           | 100 V / 5 ms |
+|                  |              |                    |              | 5 V / 25 ms  |
+
+FULL WAVE :
+<img width="689" height="537" alt="Screenshot 2025-12-15 151447" src="https://github.com/user-attachments/assets/0837f9c0-9e32-4959-a181-7343cf32c712" />
 
 WAVEFORM:
+<img width="782" height="411" alt="Screenshot 2025-12-15 151649" src="https://github.com/user-attachments/assets/d83b3e21-58c8-4081-b6be-d482ae73b136" />
+
+TABULAR FORM:
+
+
 
 
 RESULT:
