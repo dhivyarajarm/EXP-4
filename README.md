@@ -46,7 +46,6 @@ WAFEFORM:
 
 
 TABULAR COLUMN:
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
@@ -73,19 +72,11 @@ TABULAR COLUMN:
     <td>5 ms, 25 ms</td>
   </tr>
 </table>
-
-
-
 FULL WAVE :
-
 <img width="689" height="537" alt="Screenshot 2025-12-15 151447" src="https://github.com/user-attachments/assets/0837f9c0-9e32-4959-a181-7343cf32c712" />
-
 WAVEFORM:
-
 <img width="782" height="411" alt="Screenshot 2025-12-15 151649" src="https://github.com/user-attachments/assets/d83b3e21-58c8-4081-b6be-d482ae73b136" />
-
 TABULAR FORM:
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
