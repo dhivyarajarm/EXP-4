@@ -45,12 +45,17 @@ WAFEFORM:
 
 TABULAR COLUMN:
 
-| *Input Voltage* |              | *Output Voltage* |              |              |
-|------------------|--------------|--------------------|--------------|--------------|
-| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
-|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
-| 100              | 20           | 100                | 10           | 100 V / 5 ms |
-|                  |              |                    |              | 5 V / 25 ms  |
+
+| Section | Parameter | Value |
+|--------|----------|-------|
+| Input Voltage | Vm (V) | 100 |
+| Input Voltage | t (ms) | 20 |
+| Output Voltage (Without Filter) | Vm (V) | 100 |
+| Output Voltage (Without Filter) | t (ms) | 10 |
+| Output Voltage (With Filter) | Vm (V) | 100 V, 5 V |
+| Output Voltage (With Filter) | t (ms) | 5 ms, 25 ms |
+      
+
 
 FULL WAVE :
 
