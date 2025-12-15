@@ -44,8 +44,32 @@ WAFEFORM:
 
 
 TABULAR COLUMN:
-
-
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+  <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
 
 
 
@@ -59,13 +83,32 @@ WAVEFORM:
 
 TABULAR FORM:
 
-## Input and Output Voltage Table
-
-| *Input Voltage* |            | *Output Voltage* |            |              |              |
-|------------------|--------------------|------------|--------------|--------------|
-| *Vm (V)*       | *t (ms)* | *Without Filter* |            | *With Filter* |            |
-|                  |            | *Vm (V)*         | *t (ms)* | *Vm (V)*   | *t (ms)*   |
-| 50               | 20         | 50                 | 5          | 50, 46       | 5 ms, 14 ms  |
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+ <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>20</td>
+    <td>50</td>
+    <td>5</td>
+    <td>50, 46</td>
+    <td>5 ms, 14 ms</td>
+  </tr>
+</table>   
 
 
 
